@@ -1,4 +1,4 @@
-"""CLI demo script for PawPal+. Run with: python main.py"""
+# CLI demo script for PawPal+. Run with: python main.py
 
 from pawpal_system import Owner, Pet, Task, Scheduler
 

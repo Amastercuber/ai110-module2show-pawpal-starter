@@ -1,4 +1,4 @@
-"""Pytest suite for the PawPal+ core system. Run with: python -m pytest"""
+# Pytest suite for the PawPal+ core system. Run with: python -m pytest
 
 from pawpal_system import Owner, Pet, Task, Scheduler
 
