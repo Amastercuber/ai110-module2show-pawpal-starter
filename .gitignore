@@ -3,3 +3,6 @@ __pycache__/
 .venv_new/
 .pytest_cache/
 .DS_Store
+CLAUDE.md
+week5projectcodep.pdf
+PLAN.md
